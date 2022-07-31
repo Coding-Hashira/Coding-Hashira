@@ -22,7 +22,7 @@ I'm a young and passionte developer from India! I'm currently learning Full Stac
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="TailwindCSS" alt="TailwindCSS"  width="40" height="40"/>&nbsp
 </div>
 
-## Social
+## 😎 Social
 ![Twitter](https://img.shields.io/twitter/follow/coding_hashira?color=%231DA1F2&label=Followers&logo=Twitter&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/followers/Coding-Hashira?color=%23171515&logo=GitHub&style=for-the-badge)
 
