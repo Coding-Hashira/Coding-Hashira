@@ -1,15 +1,14 @@
 # Hi Folks, I'm Jashan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## 👨‍💻 About Me:
-I'm a young and passionte developer from India! I'm currently learning Full Stack Web Development. I like Learning new skills, building some awesome stuff, and make new connections! :smile:
+## 👨‍💻 About Me
+I’m a young and passionate developer from India! I enjoy learning new skills, building some awesome stuff, and make new connections! Currently, learning full stack web development in JavaScript! :smile:
 
 - 👨‍🎓 High-school Student
 - 🌐 Learning Full Stack Web Development
-- ✍ Write on Twitter with 1K+ Audience
-- :books: Love Reading Books!
-- 🤝 Loves Making New Connections
+- ✍ Writing on Twitter with 1K+ Audience
+- ✉️  You can contact me at codinghashira@gmail.com
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -18,8 +17,8 @@ I'm a young and passionte developer from India! I'm currently learning Full Stac
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS"  width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS"  width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="TailwindCSS" alt="TailwindCSS"  width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJs" alt="NextJs"  width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="MUI" alt="MUI"  width="40" height="40"/>&nbsp
 </div>
 
 ## 😎 Social
